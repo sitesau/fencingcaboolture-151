@@ -1,0 +1,22 @@
+{
+  "wheel_id": 539,
+  "structure": "umbrella",
+  "slug": "fencingcaboolture-151",
+  "project": "fence-builders-caboolture-2abe0898241d217d0016b9f8ef670cfc5c0cb",
+  "parent_t1_ref": "fencingcaboolture-007",
+  "node_role": "buffer",
+  "money_target": "fencingcaboolture.com.au",
+  "primary_kw": "fence builders caboolture",
+  "intended_url": "https://sites-e470-2.web.app/fence-builders-caboolture-2abe0898241d217d0016b9f8ef670cfc5c0cb/",
+  "tier": "T2",
+  "writeback_nonce": "22343329f20ae8ce",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/fencingcaboolture-007/fence-builders-caboolture.html",
+      "anchor": "Fence Builders Caboolture: A Practical Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
